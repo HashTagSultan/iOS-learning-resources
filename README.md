@@ -18,4 +18,7 @@ A collection of the best, frequently updated and well maintained iOS learning re
 
 - [NSHipster](http://nshipster.com/)
 
+- [Swift Blog] (https://developer.apple.com/swift/blog/)
+
+
 Feel free to contribute - [pull requests](https://github.com/sanketfirodiya/iOS-learning-resources/pulls)
